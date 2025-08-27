@@ -1,0 +1,32 @@
+.container{
+    display:flex;
+    border: 1px solid red;
+    background-color: rgb(227, 237, 227);
+    /* flex-direction: column-reverse; */
+    flex-wrap: ;
+}
+.child1{
+    border: 1px solid rgb(148, 203, 80);
+    background-color: rgb(36, 136, 123);
+    height: 200px;
+    width: 200px;
+}
+.child2{
+    border: 1px solid rgb(23, 34, 181);
+    background-color: rgb(195, 68, 180);
+    height: 200px;
+    width: 200px;
+
+}
+.child3{
+    border: 1px solid rgb(194, 142, 69);
+    background-color: rgb(80, 169, 73);
+    height: 200px;
+    width: 200px;
+}
+.child4{
+    border: 1px solid rgb(23, 34, 181);
+    background-color: rgb(8, 173, 192);
+    height: 200px;
+    width: 200px;
+}
